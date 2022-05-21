@@ -34,7 +34,7 @@ body {
 .carousel {
     position: relative;
     height: 100px;
-    background-color: var(--white);
+    background-color:#ffffff;
     display: flex;
     overflow: hidden;
     max-width: 100%;
